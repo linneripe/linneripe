@@ -15,4 +15,5 @@ I’m a developer passionate about building structured, scalable, and user-cente
 ## 📫 Connect With Me
 
 📧 linn.eripe@gmail.com  
-🔗 [LinkedIn](#)  
+🔗 [LinkedIn](https://www.linkedin.com/in/linn-eripe-a4b403147/)  
+
