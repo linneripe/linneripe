@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Linn 👋
 
-<!--
-**linneripe/linneripe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc. Student in Information & Communication Technology at Lund University (LTH)  
+💻 Full-stack developer with a focus on modern web technologies  
+🌍 Based in Lund, Sweden  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a developer passionate about building structured, scalable, and user-centered software solutions.
+
+---
+
+## 📫 Connect With Me
+
+📧 linn.eripe@gmail.com  
+🔗 [LinkedIn](#)  
