@@ -12,6 +12,12 @@ I’m a developer passionate about building structured, scalable, and user-cente
 
 ---
 
+## 🌟 Currently working on
+- School projects
+- Apps
+
+---
+
 ## 📫 Connect With Me
 
 📧 linn.eripe@gmail.com  
