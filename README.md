@@ -1,25 +1,16 @@
 # Hi, I'm Linn 👋
 
-🎓 M.Sc. Student in Information & Communication Technology at Lund University (LTH)  
-💻 Full-stack developer with a focus on modern web technologies  
-🌍 Based in Lund, Sweden  
+M.Sc. Student in Information & Communication Technology @ Lund University (LTH)
 
 ---
 
-## 🚀 About Me
+## 📂 Projects
 
-I’m a developer passionate about building structured, scalable, and user-centered software solutions.
+Most repos are private (coursework), but check out my public work. Open to sharing more upon request.
 
----
-
-## 🌟 Currently working on
-- School projects
-- Apps
+- **weather_app** – Flutter mobile app with API integration (summer course project)
+- **todo-list** – Flutter mobile app (summer course project)
 
 ---
 
-## 📫 Connect With Me
-
-📧 linn.eripe@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/linn-eripe-a4b403147/)  
-
+📧 linn.eripe@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/linn-eripe-a4b403147/)
